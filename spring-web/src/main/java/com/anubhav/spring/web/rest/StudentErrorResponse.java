@@ -1,4 +1,4 @@
-package com.anubhav.spring.web.entity;
+package com.anubhav.spring.web.rest;
 
 public class StudentErrorResponse {
 
