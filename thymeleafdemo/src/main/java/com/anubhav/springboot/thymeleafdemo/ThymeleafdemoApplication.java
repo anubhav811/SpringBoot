@@ -1,11 +1,13 @@
-package com.anubhav.RestApi;
+package com.anubhav.springboot.thymeleafdemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RestApiApplication {
+public class ThymeleafdemoApplication {
+
 	public static void main(String[] args) {
-		SpringApplication.run(RestApiApplication.class, args);
+		SpringApplication.run(ThymeleafdemoApplication.class, args);
 	}
+
 }
